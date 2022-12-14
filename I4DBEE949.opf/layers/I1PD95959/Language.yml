@@ -1,0 +1,94 @@
+id: 97564d626c1242f9b9d1a3b97cd88a7e
+annotation_type: Language
+revision: '00001'
+annotations:
+  d199bc64c40843f69c118c69dcde6a62:
+    span:
+      start: 39
+      end: 538
+    language: en
+  a454c10b57244545be678123b323e01e:
+    span:
+      start: 1101850
+      end: 1101882
+    language: en
+  4e0c8cd7286f44d0b77328b3b7599f73:
+    span:
+      start: 1124367
+      end: 1124405
+    language: en
+  c42d46a3f2f341eb8c1faabc95006800:
+    span:
+      start: 1184462
+      end: 1184490
+    language: en
+  d4042dcb5d334044aa2291845ca78927:
+    span:
+      start: 1231983
+      end: 1232003
+    language: en
+  246c51998c074b9dbbb50e7a55567da1:
+    span:
+      start: 1547422
+      end: 1547472
+    language: en
+  de61bdef9a014a85b9c8629616a70f9d:
+    span:
+      start: 1559645
+      end: 1559674
+    language: en
+  3201a32ef4ab4283ba53f324a406326b:
+    span:
+      start: 1747069
+      end: 1747098
+    language: en
+  48082d545bdd4741bb7ddbe15e6ea9dd:
+    span:
+      start: 1828383
+      end: 1828416
+    language: en
+  08f9ab09b7dc4830b40201ae3b9bfbe0:
+    span:
+      start: 1841274
+      end: 1841307
+    language: en
+  0c111b951946486ab887fc83f77639da:
+    span:
+      start: 2015582
+      end: 2015616
+    language: en
+  897d7d66888f4410b667d341ece5a624:
+    span:
+      start: 2082720
+      end: 2082749
+    language: en
+  4895995eb43b4bc1904f03f1068e0536:
+    span:
+      start: 2084129
+      end: 2084162
+    language: en
+  2d130d2abf2343998d1d0907e32242a2:
+    span:
+      start: 2168144
+      end: 2168169
+    language: en
+  7c30854d97e6409e99345ac331ae1169:
+    span:
+      start: 2651004
+      end: 2651064
+    language: zh
+  9f96886202be47dc97e510ddb0de606a:
+    span:
+      start: 2651065
+      end: 2651133
+    language: en
+  574302c77d4c42dc93622ae370242baf:
+    span:
+      start: 2651133
+      end: 2651344
+    language: zh
+  b849e4b78b06494d9817be8cc509202e:
+    span:
+      start: 2651345
+      end: 2651406
+    language: en
